@@ -1,12 +1,9 @@
-import {easing} from 'maath';
-import { useEffect, useRef,useState } from 'react';
-import { useFrame } from '@react-three/fiber';
+
+import {  useRef } from 'react';
+
 import { AccumulativeShadows,RandomizedLight } from '@react-three/drei';
-import state from '../store';
-import { useSnapshot } from 'valtio';
 
 const BackDrop = () => {
-    const snap=useSnapshot(state);
     const shadows=useRef();
 
   return (

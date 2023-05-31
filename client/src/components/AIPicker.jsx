@@ -1,10 +1,10 @@
-import { useState } from "react";
+
 import CustomButton from "./CustomButton";
 import RiseLoader from "react-spinners/RiseLoader";
 import state from "../store";
 
 const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
-  const [loading,setLoading]=useState(false);
+  
   return (
     <div className="aipicker-container">
       {generatingImg ? (
