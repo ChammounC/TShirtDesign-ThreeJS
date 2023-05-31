@@ -74,11 +74,12 @@ A responsive t-shirt designing website with an interactive 3D Model using:
 
 ## :rocket: Technologies used:
 <p align="center">
-	<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" title="React" width="70" height="70"/></a>
-	<a href="https://threejs.org/"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" title="ThreeJS" width="70" height="70"/></a>
-	<a href="https://vitejs.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" title="Vite"  width="70" height="70"/></a>
-	<a href="https://openai.com/product/dall-e-2"><img src="https://static.vecteezy.com/system/resources/previews/021/495/993/original/chatgpt-openai-logo-icon-free-png.png" alt="openai-dalle" title="OpenAI-DALLE" width="60" height="70"/></a>
-  <a href="https://www.framer.com/motion/"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer" title="Framer Motion"  width="70" height="70"/></a>
+	<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" title="React" width="70" height="70"/></a>&nbsp;
+	<a href="https://threejs.org/"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="threejs" title="ThreeJS" width="70" height="70"/></a>&nbsp;
+	<a href="https://vitejs.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" title="Vite"  width="70" height="70"/></a>&nbsp;
+	<a href="https://openai.com/product/dall-e-2"><img src="https://static.vecteezy.com/system/resources/previews/021/495/993/original/chatgpt-openai-logo-icon-free-png.png" alt="openai-dalle" title="OpenAI-DALLE" width="60" height="70"/></a>&nbsp;
+  <a href="https://www.framer.com/motion/"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer" title="Framer Motion"  width="70" height="70"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" title="TailWindCSS"  width="70" height="70"/></a>
 
 </p>
 
