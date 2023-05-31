@@ -72,11 +72,14 @@ const Customizer = () => {
     switch (tabName) {
       case "logoShirt":
         state.isLogoTexture = !activeFilterTab[tabName];
+        break;
       case "stylishShirt":
         state.isFullTexture = !activeFilterTab[tabName];
+        break;
       default:
         state.isFullTexture = false;
         state.isLogoTexture = true;
+        break;
     }
 
     //after setting the state, active FilterTab is updated
