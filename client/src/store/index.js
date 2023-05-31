@@ -5,8 +5,8 @@ const state=proxy({
     color:'#EFBD48',
     isLogoTexture:true,
     isFullTexture:false,
-    logoDecal:'./threejs.png',
-    fullDecal:'./threejs.png',
+    logoDecal:'./ccLogo.png',
+    fullDecal:'./ccLogo.png',
     mousePointer:{x:0,y:0}
 });
 
