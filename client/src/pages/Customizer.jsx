@@ -56,7 +56,6 @@ const Customizer = () => {
         });
 
         const data=await response.json();
-        console.log(data);
         if(response.status===200){
             handleDecals(type,`data:image/png;base64,${data.photo}`);
         }

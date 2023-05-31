@@ -21,13 +21,13 @@ const FilePicker = ({file,setFile,readFile}) => {
             type="outline"
             title="Logo"
             handleClick={() => readFile("logo")}
-            customStyles="text-xs"
+            customStyles="py-2.5 text-sm"
           />
           <CustomButton
             type="filled"
             title="Full"
             handleClick={() => readFile("full")}
-            customStyles="text-xs"
+            customStyles="py-2.5 text-sm"
           />
         </div>
       </div>
