@@ -34,4 +34,4 @@ const BackDrop = () => {
   );
 }
 
-export default BackDrop
+export default BackDrop;
