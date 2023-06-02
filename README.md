@@ -86,7 +86,7 @@ A responsive t-shirt designing website with an interactive 3D Model using:
 <br>
 
 ## :information_source: Application installation
-- `https://github.com/ChammounC/Apple_Interact-Webgi.git` to clone the repository
+- git clone `https://github.com/ChammounC/TShirtDesign-ThreeJS.git` to clone the repository
 ### server-side
 - `cd server` and run `npm install`
 - Visit <a href="https://platform.openai.com/account/api-keys">https://platform.openai.com/account/api-keys</a> and generate an `API_KEY`
