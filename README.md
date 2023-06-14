@@ -63,8 +63,8 @@ A responsive t-shirt designing website with an interactive 3D Model using:
 - [x] Color Picker.
 - [x] Image Upload for both logo and full canvas.
 - [x] Image Generation using OpenAI's DALL·E 2.
-- [ ] Adding download option soon....
-- [ ] Adding PWA feature soon....
+- [ ] Design Download
+- [ ] PWA
 
 <br>
  <h2>:key: Take a look </h2>  <a href='https://dalle-ai-threejs.netlify.app/'>https://dalle-ai-threejs.netlify.app/</a>
