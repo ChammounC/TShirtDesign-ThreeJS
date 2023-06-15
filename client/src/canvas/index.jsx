@@ -9,19 +9,20 @@ const CanvasModel = () => {
   return (
     <Canvas
       shadows
-      camera={{position:[0,0,0],fov:25}}
-      gl={{preserveDrawingBuffer:true}}
-      className='w-full max-w-full h-full transition-all ease-in'>
-      <ambientLight intensity={0.5}/>
-      <Environment preset='city'/>
+      camera={{ position: [0, 0, 0], fov: 25 }}
+      gl={{ preserveDrawingBuffer: true }}
+      className="w-full max-w-full h-full transition-all ease-in"
+    >
+      <ambientLight intensity={0.5} />
+      <Environment files="https://cdn.jsdelivr.net/gh/Sean-Bradley/React-Three-Fiber-Boilerplate@environment/public/img/venice_sunset_1k.hdr"/>
       <CameraRig>
-        <Backdrop/>
+        <Backdrop />
         <Center>
-          <Shirt/>
+          <Shirt />
         </Center>
       </CameraRig>
     </Canvas>
-  )
+  );
 }
 
 export default CanvasModel;
