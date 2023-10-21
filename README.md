@@ -42,7 +42,7 @@
 <br>
 <br>
 <br>
-## 5. Generate image using OpenAI's DALLE 2 
+## 5. Generate image using OpenAI's DALLE 2 ( EXPIRED )
 ![ai_upload](https://github.com/ChammounC/TShirtDesign-ThreeJS/assets/43007452/5920ee93-f1a4-4059-8562-e6ee7ffb061e)
 
 <br>
@@ -63,8 +63,6 @@ A responsive t-shirt designing website with an interactive 3D Model using:
 - [x] Color Picker.
 - [x] Image Upload for both logo and full canvas.
 - [x] Image Generation using OpenAI's DALL·E 2.
-- [ ] Design Download
-- [ ] PWA
 
 <br>
  <h2>:key: Take a look </h2>  <a href='https://dalle-ai-threejs.netlify.app/'>https://dalle-ai-threejs.netlify.app/</a>
